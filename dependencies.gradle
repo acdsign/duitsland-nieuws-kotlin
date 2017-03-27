@@ -13,7 +13,7 @@ ext.versions = [
         superSimple : '0.1.7',
         rxJava : '2.0.5',
         rxAndroid : '2.0.1',
-        kotlin : '1.0.6',
+        kotlin : '1.1.1',
         dagger : '2.9',
         requery : '1.2.0',
         gson : '2.8.0',
